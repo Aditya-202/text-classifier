@@ -32,3 +32,15 @@ This project implements a sentiment analysis model using Convolutional Neural Ne
 3. Run the script to train the CNN models:
    ```bash
    python script_name.py
+
+## Required Datasets
+
+1. **IMDB Dataset for Sentiment Analysis**  
+   Download the IMDb train data from Kaggle:
+   - [Download IMDb train data from Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv)  
+   After downloading, place the file `labeledTrainData.tsv` in your working directory.
+
+2. **GloVe Word Vectors**  
+   Download the GloVe word vectors (6B tokens, 400K vocabulary, 50/100/200/300 dimensions):
+   - [Download GloVe word vectors](http://nlp.stanford.edu/data/glove.6B.zip)  
+   After downloading, unzip the `glove.6B.zip` file and place the extracted files in your working directory.

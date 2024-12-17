@@ -42,5 +42,5 @@ This project implements a sentiment analysis model using Convolutional Neural Ne
 
 2. **GloVe Word Vectors**  
    Download the GloVe word vectors (6B tokens, 400K vocabulary, 50/100/200/300 dimensions):
-   - [Download GloVe word vectors](http://nlp.stanford.edu/data/glove.6B.zip)  
+   - [Download GloVe word vectors](https://nlp.stanford.edu/data/glove.6B.zip)  
    After downloading, unzip the `glove.6B.zip` file and place the extracted files in your working directory.
